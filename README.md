@@ -5,8 +5,7 @@ jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - 
 "Agency is a stylish, one page Bootstrap theme for agencies and small businesses. The design of Agency is based off of the Golden PSD Theme by Mathavan Jaya. You can download the PSD verison of this theme at FreebiesXpress.com."
 
 ## Preview
-
-[![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/)
+[![Agency Preview](/screenshot.png)](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/)
 
 **[View Live Preview](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/)**
 
